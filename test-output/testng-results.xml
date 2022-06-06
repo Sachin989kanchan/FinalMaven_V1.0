@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="N11 Test Suite" duration-ms="71018" started-at="2022-06-05T10:50:15 MDT" finished-at="2022-06-05T10:51:26 MDT">
+    <groups>
+    </groups>
+    <test name="LoginTest2" duration-ms="71018" started-at="2022-06-05T10:50:15 MDT" finished-at="2022-06-05T10:51:26 MDT">
+      <class name="com.TestCases.TC_01">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.TestCases.TC_01@1f27fae]" name="Setup" is-config="true" duration-ms="42603" started-at="2022-06-05T10:50:15 MDT" finished-at="2022-06-05T10:50:58 MDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.TestCases.TC_01@1f27fae]" name="logintest" duration-ms="27457" started-at="2022-06-05T10:50:58 MDT" finished-at="2022-06-05T10:51:25 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.TestCases.TC_01@1f27fae]" name="TearDown" is-config="true" duration-ms="355" started-at="2022-06-05T10:51:25 MDT" finished-at="2022-06-05T10:51:26 MDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.TestCases.TC_01 -->
+    </test> <!-- LoginTest2 -->
+  </suite> <!-- N11 Test Suite -->
+</testng-results>
